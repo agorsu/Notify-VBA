@@ -9,8 +9,8 @@ The Notify macro works by using find and replace method for any placeholders in 
 It can support long text data and will retain the formatting of the placeholder in the template.
 
 Two additional reserved fields have also been included:
-<<TODAY>> 	  Current date when generated.
-<<USERNAME>> 	Account name of the user who generated the document.
+'<<TODAY>>' 	  Current date when generated.
+'<<USERNAME>>' 	Account name of the user who generated the document.
 
 ## How to setup
 Simply download or clone the repo and run the Notify.xlsm document
